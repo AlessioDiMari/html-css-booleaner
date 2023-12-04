@@ -1,0 +1,20 @@
+.logo-img{
+    height: auto;
+    max-width: 20%;
+}
+.principal-row{
+    background-color: rgb(30, 144, 255);
+    color: white;
+}
+.lcolumn{
+    display: inline-block;
+    width: 25%;
+}
+.ccolumn{
+    display: inline-block;
+    width: 25%;
+}
+.rcolumn{
+    display: inline-block;
+    width: 49%;
+}
