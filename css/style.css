@@ -1,3 +1,7 @@
+.logo{
+    background-image: url(/img/pattern.png);
+
+}
 .logo-img{
     height: auto;
     max-width: 20%;
@@ -18,4 +22,10 @@
 .rcolumn{
     display: inline-block;
     width: 49%;
+}
+.odd-row{
+    background-color: aqua;
+}
+.even-row{
+    background-color: white;
 }
