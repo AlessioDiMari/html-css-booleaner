@@ -6,6 +6,7 @@
     background-color: rgb(30, 144, 255);
     color: white;
 }
+/* lcolumn, ccolumn e rcolumn rispettivamente colonna di sinistra, centro e destra(left, center, e right) */
 .lcolumn{
     display: inline-block;
     width: 25%;
